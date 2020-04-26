@@ -1,0 +1,213 @@
+[2019-06-24 16:16:19,008] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 16:18:20,287] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 16:18:20,287] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 16:18:20,301] MainThread DEBUG: after split
+[2019-06-24 16:21:38,764] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 16:21:38,764] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 16:21:38,767] MainThread DEBUG: after split
+[2019-06-24 16:38:04,782] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 16:38:04,782] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 16:38:04,785] MainThread DEBUG: after split
+[2019-06-24 17:00:37,199] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 17:00:37,199] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 17:03:28,686] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 17:03:28,687] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 17:05:25,836] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 17:05:25,836] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 17:06:27,824] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 17:06:27,825] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 17:07:20,711] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 17:07:20,712] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 17:07:57,944] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 17:07:57,944] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 17:12:41,235] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 17:12:41,235] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 17:13:59,821] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 17:13:59,822] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 17:14:14,981] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 17:14:14,982] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 17:14:14,985] MainThread DEBUG: after split
+[2019-06-24 17:14:50,236] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 17:14:50,236] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 17:14:50,239] MainThread DEBUG: after split
+[2019-06-24 19:50:19,592] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 19:50:19,592] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 19:50:19,595] MainThread DEBUG: after split
+[2019-06-24 19:52:29,276] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 19:52:29,276] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-24 19:52:29,280] MainThread DEBUG: after split
+[2019-06-24 20:37:46,332] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 20:37:46,332] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 20:37:46,332] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 20:37:46,334] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-24 20:42:04,130] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 20:42:04,130] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 20:42:04,130] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 20:42:04,132] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-24 20:48:49,187] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 20:48:49,188] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 20:48:49,188] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 20:48:49,190] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-24 20:50:06,002] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 20:50:06,003] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 20:50:06,003] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 20:50:06,005] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-24 20:50:25,048] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 20:50:25,049] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 20:50:25,049] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 20:50:25,051] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-24 20:54:19,859] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 20:54:19,859] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 20:54:19,859] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 20:54:19,863] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-24 20:54:45,880] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 20:54:45,880] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 20:54:45,880] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 20:54:45,883] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-24 20:56:07,286] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 20:56:07,286] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 20:56:07,286] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 20:56:07,288] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-24 20:58:47,306] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 20:58:47,306] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 20:58:47,306] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 20:58:47,308] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-24 21:00:35,908] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 21:00:35,908] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 21:00:35,908] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 21:00:35,911] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-24 21:03:46,770] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-24 21:03:46,770] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-24 21:03:46,770] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-24 21:03:46,772] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 17:17:32,136] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 17:17:32,136] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-25 17:17:32,136] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-25 17:17:32,139] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 20:21:29,305] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 20:21:29,305] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-25 20:21:29,305] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-25 20:21:29,311] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 20:44:30,815] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 20:44:30,815] MainThread ERROR: Can not find root dir=:/root/mpi:/root/mpi/Application/AnalysisApp
+[2019-06-25 20:44:30,816] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:/root/juno:
+[2019-06-25 20:44:30,818] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 20:48:06,280] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 20:48:06,280] MainThread ERROR: Can not find root dir=:/root/mpi/Application/AnalysisApp
+[2019-06-25 20:48:06,280] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 20:48:06,284] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 20:48:57,794] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 20:48:57,794] MainThread ERROR: Can not find root dir=:/root/mpi/Application/AnalysisApp
+[2019-06-25 20:48:57,795] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 20:48:57,797] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 21:14:55,100] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 21:14:55,101] MainThread ERROR: Can not find root dir=:/root/mpi/Application/AnalysisApp
+[2019-06-25 21:14:55,101] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 21:14:55,103] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 21:15:14,164] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 21:15:14,165] MainThread ERROR: Can not find root dir=:/root/mpi/Application/AnalysisApp
+[2019-06-25 21:15:14,165] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 21:15:14,167] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 21:21:14,942] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 21:21:14,943] MainThread ERROR: Can not find root dir=:/root/mpi/Application/AnalysisApp
+[2019-06-25 21:21:14,943] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 21:21:36,158] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 21:21:36,158] MainThread ERROR: Can not find root dir=:/root/mpi/Application/AnalysisApp
+[2019-06-25 21:21:36,158] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 21:21:36,160] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 21:23:23,399] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 21:23:23,399] MainThread ERROR: Can not find root dir=:/root/mpi/Application/AnalysisApp
+[2019-06-25 21:23:23,399] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 21:23:23,402] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 21:46:29,759] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 21:46:29,760] MainThread ERROR: Can not find root dir=:/root/mpi/Application/AnalysisApp
+[2019-06-25 21:46:29,760] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 21:46:29,763] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 22:01:42,422] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 22:01:42,422] MainThread ERROR: Can not find root dir=:/root/mpi/Application/AnalysisApp
+[2019-06-25 22:01:42,423] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 22:01:42,425] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 22:02:46,349] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 22:02:46,350] MainThread ERROR: Can not find root dir=:/root/mpi/Application/AnalysisApp
+[2019-06-25 22:02:46,350] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 22:02:46,352] MainThread ERROR: Error: App resdir is not allow or lack
+[2019-06-25 22:05:30,379] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 22:05:30,380] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 22:05:30,383] MainThread DEBUG: after split
+[2019-06-25 22:07:10,759] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 22:07:10,759] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 22:07:10,762] MainThread DEBUG: after split
+[2019-06-25 22:32:10,877] DistJET.BaseThread.Handler INFO: [JunoAPP] Cannot find JUNOTOP:/root/juno: ,use default
+[2019-06-25 22:39:20,833] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-25 22:39:20,834] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-25 22:39:20,837] MainThread DEBUG: after split
+[2019-06-25 22:39:27,099] DistJET.BaseThread.Handler INFO: [JunoAPP] Cannot find JUNOTOP:/root/juno: ,use default
+[2019-06-26 09:46:06,166] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-26 09:46:06,166] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-26 09:46:06,169] MainThread DEBUG: after split
+[2019-06-26 09:46:24,771] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-26 09:46:24,771] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-26 09:46:24,774] MainThread DEBUG: after split
+[2019-06-26 09:46:34,307] DistJET.BaseThread.Handler INFO: [JunoAPP] Cannot find JUNOTOP:/root/juno: ,use default
+[2019-06-26 15:10:51,214] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-26 15:10:51,214] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-26 15:10:51,217] MainThread DEBUG: after split
+[2019-06-26 15:10:58,145] DistJET.BaseThread.Handler INFO: [JunoAPP] Cannot find JUNOTOP:/root/juno: ,use default
+[2019-06-26 15:42:19,814] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-26 15:42:19,839] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-26 15:42:19,888] MainThread DEBUG: after split
+[2019-06-26 15:42:42,270] DistJET.BaseThread.Handler INFO: [JunoAPP] Cannot find JUNOTOP:/root/juno: ,use default
+[2019-06-26 19:40:52,712] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-26 19:40:52,713] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-26 19:40:52,717] MainThread DEBUG: after split
+[2019-06-26 19:41:16,692] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-26 19:41:16,692] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-26 19:41:16,696] MainThread DEBUG: after split
+[2019-06-26 19:41:57,820] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-06-26 19:41:57,820] MainThread INFO: [JunoAPP] Set JunoTop = /root/juno:
+[2019-06-26 19:41:57,824] MainThread DEBUG: after split
+[2019-06-26 19:42:09,331] DistJET.BaseThread.Handler INFO: [JunoAPP] Cannot find JUNOTOP:/root/juno: ,use default
+[2019-07-03 11:18:10,668] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-07-03 11:18:10,669] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:/root/juno:
+[2019-07-03 11:29:01,936] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-07-03 11:29:01,937] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:/root/juno:
+[2019-07-03 11:29:01,958] MainThread DEBUG: after split
+[2019-07-03 11:35:11,421] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-07-03 11:35:11,421] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:/root/juno:
+[2019-07-03 11:35:11,425] MainThread DEBUG: after split
+[2019-07-03 11:38:53,361] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-07-03 11:38:53,362] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:/root/juno:
+[2019-07-03 11:38:53,366] MainThread DEBUG: after split
+[2019-07-03 11:41:24,639] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-07-03 11:41:24,640] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:/root/juno:
+[2019-07-03 11:41:24,645] MainThread DEBUG: after split
+[2019-07-03 11:44:05,093] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-07-03 11:44:05,093] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:/root/juno:
+[2019-07-03 11:44:05,098] MainThread DEBUG: after split
+[2019-07-04 02:33:53,764] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-07-04 02:33:53,772] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno
+[2019-07-04 02:33:53,841] MainThread DEBUG: after split
+[2019-07-04 02:36:01,025] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-07-04 02:36:01,025] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno
+[2019-07-04 02:36:01,031] MainThread DEBUG: after split
+[2019-07-04 03:30:17,573] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-07-04 03:30:17,574] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno
+[2019-07-04 03:30:17,581] MainThread DEBUG: after split
+[2019-07-04 07:36:27,970] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2019-07-04 07:36:27,970] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno
+[2019-07-04 07:36:27,977] MainThread DEBUG: after split
+[2020-04-26 15:54:58,982] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2020-04-26 15:54:58,982] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:
+[2020-04-26 15:54:58,985] MainThread DEBUG: after split
+[2020-04-26 15:55:29,067] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2020-04-26 15:55:29,068] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:
+[2020-04-26 15:55:29,071] MainThread DEBUG: after split
+[2020-04-26 16:15:31,793] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2020-04-26 16:15:31,793] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:
+[2020-04-26 16:15:31,796] MainThread DEBUG: after split
+[2020-04-26 16:18:48,106] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2020-04-26 16:18:48,106] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:
+[2020-04-26 16:18:48,110] MainThread DEBUG: after split
+[2020-04-26 16:19:34,278] MainThread INFO: [App] Load App configure file /root/mpi/server/Application/AnalysisApp/config.ini
+[2020-04-26 16:19:34,278] MainThread INFO: [JunoAPP] Set JunoTop = /root/mpi/juno:
+[2020-04-26 16:19:34,281] MainThread DEBUG: after split

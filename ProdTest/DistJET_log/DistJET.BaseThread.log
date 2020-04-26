@@ -1,0 +1,145 @@
+[2019-06-24 16:18:20,289] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 16:18:20,289] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 16:21:38,766] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 16:21:38,766] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 16:38:04,784] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 16:38:04,784] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 17:14:14,983] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 17:14:14,984] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 17:14:50,238] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 17:14:50,238] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 19:50:19,594] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 19:50:19,594] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 19:52:29,278] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 19:52:29,279] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 20:37:46,334] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 20:37:46,334] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 20:42:04,132] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 20:42:04,132] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 20:48:49,190] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 20:48:49,190] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 20:50:06,004] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 20:50:06,005] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 20:50:25,051] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 20:50:25,051] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 20:54:19,862] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 20:54:19,862] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 20:54:45,882] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 20:54:45,882] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 20:56:07,288] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 20:56:07,288] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 20:58:47,308] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 20:58:47,308] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 21:00:35,910] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 21:00:35,910] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-24 21:03:46,772] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-24 21:03:46,772] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 17:17:32,138] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 17:17:32,139] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 20:21:29,310] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 20:21:29,311] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 20:44:30,818] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 20:44:30,818] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 20:48:06,283] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 20:48:06,283] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 20:48:57,796] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 20:48:57,797] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 21:14:55,103] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 21:14:55,103] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 21:15:14,166] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 21:15:14,167] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 21:21:36,160] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 21:21:36,160] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 21:23:23,401] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 21:23:23,401] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 21:46:29,762] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 21:46:29,762] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 22:01:42,424] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 22:01:42,425] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 22:02:46,352] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 22:02:46,352] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 22:05:30,382] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 22:05:30,382] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 22:07:10,761] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 22:07:10,761] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 22:32:10,168] MainThread DEBUG: BaseThread object created:HeartbeatThread
+[2019-06-25 22:32:22,173] MainThread DEBUG: Stopping: HeartbeatThread
+[2019-06-25 22:32:44,959] MainThread DEBUG: Stopping: WatchDogThread
+[2019-06-25 22:39:20,836] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-25 22:39:20,836] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-25 22:39:26,756] MainThread DEBUG: BaseThread object created:HeartbeatThread
+[2019-06-25 22:39:27,470] MainThread DEBUG: BaseThread object created:Worker
+[2019-06-25 22:39:27,812] DistJET.BaseThread.worker_0 DEBUG: Stopping: Worker
+[2019-06-25 22:39:43,844] MainThread DEBUG: Stopping: WatchDogThread
+[2019-06-25 22:39:49,261] MainThread DEBUG: Stopping: HeartbeatThread
+[2019-06-26 09:46:06,168] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-26 09:46:06,168] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-26 09:46:24,773] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-26 09:46:24,774] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-26 09:46:33,779] MainThread DEBUG: BaseThread object created:HeartbeatThread
+[2019-06-26 09:46:34,628] MainThread DEBUG: BaseThread object created:Worker
+[2019-06-26 09:46:35,034] DistJET.BaseThread.worker_0 DEBUG: Stopping: Worker
+[2019-06-26 09:46:35,996] MainThread DEBUG: Stopping: HeartbeatThread
+[2019-06-26 09:46:36,417] MainThread DEBUG: Stopping: WatchDogThread
+[2019-06-26 09:46:40,664] MainThread DEBUG: Stopping: HandlerThread
+[2019-06-26 15:10:51,216] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-26 15:10:51,216] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-26 15:10:57,688] MainThread DEBUG: BaseThread object created:HeartbeatThread
+[2019-06-26 15:10:58,252] MainThread DEBUG: BaseThread object created:Worker
+[2019-06-26 15:42:19,841] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-26 15:42:19,856] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-26 15:42:41,000] MainThread DEBUG: BaseThread object created:HeartbeatThread
+[2019-06-26 15:42:42,442] MainThread DEBUG: BaseThread object created:Worker
+[2019-06-26 19:40:52,715] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-26 19:40:52,715] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-26 19:41:16,694] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-26 19:41:16,694] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-26 19:41:57,822] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-06-26 19:41:57,822] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-06-26 19:42:09,276] MainThread DEBUG: BaseThread object created:HeartbeatThread
+[2019-06-26 19:42:09,387] MainThread DEBUG: BaseThread object created:Worker
+[2019-07-03 11:29:01,939] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-07-03 11:29:01,956] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-07-03 11:29:28,154] MainThread DEBUG: Stopping: WatchDogThread
+[2019-07-03 11:29:32,062] MainThread DEBUG: Stopping: HandlerThread
+[2019-07-03 11:35:11,423] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-07-03 11:35:11,423] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-07-03 11:35:37,877] MainThread DEBUG: Stopping: WatchDogThread
+[2019-07-03 11:38:53,364] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-07-03 11:38:53,364] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-07-03 11:39:04,910] MainThread DEBUG: Stopping: WatchDogThread
+[2019-07-03 11:39:08,440] MainThread DEBUG: Stopping: HandlerThread
+[2019-07-03 11:41:24,642] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-07-03 11:41:24,643] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-07-03 11:41:30,868] MainThread DEBUG: Stopping: WatchDogThread
+[2019-07-03 11:41:34,707] MainThread DEBUG: Stopping: HandlerThread
+[2019-07-03 11:44:05,096] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-07-03 11:44:05,096] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-07-03 11:44:11,151] MainThread DEBUG: Stopping: WatchDogThread
+[2019-07-03 11:44:15,168] MainThread DEBUG: Stopping: HandlerThread
+[2019-07-04 02:33:53,780] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-07-04 02:33:53,811] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-07-04 02:33:59,969] MainThread DEBUG: Stopping: HandlerThread
+[2019-07-04 02:36:01,028] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-07-04 02:36:01,029] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-07-04 02:36:22,477] MainThread DEBUG: Stopping: WatchDogThread
+[2019-07-04 02:36:26,125] MainThread DEBUG: Stopping: HandlerThread
+[2019-07-04 03:30:17,577] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-07-04 03:30:17,578] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-07-04 03:30:29,309] MainThread DEBUG: Stopping: WatchDogThread
+[2019-07-04 03:30:32,773] MainThread DEBUG: Stopping: HandlerThread
+[2019-07-04 07:36:27,974] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2019-07-04 07:36:27,974] MainThread DEBUG: BaseThread object created:HandlerThread
+[2019-07-04 07:36:37,096] MainThread DEBUG: Stopping: WatchDogThread
+[2019-07-04 07:36:38,114] MainThread DEBUG: Stopping: HandlerThread
+[2020-04-26 15:54:58,984] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2020-04-26 15:54:58,984] MainThread DEBUG: BaseThread object created:HandlerThread
+[2020-04-26 15:55:29,069] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2020-04-26 15:55:29,070] MainThread DEBUG: BaseThread object created:HandlerThread
+[2020-04-26 15:57:06,502] MainThread DEBUG: Stopping: WatchDogThread
+[2020-04-26 16:15:31,795] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2020-04-26 16:15:31,795] MainThread DEBUG: BaseThread object created:HandlerThread
+[2020-04-26 16:18:48,108] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2020-04-26 16:18:48,108] MainThread DEBUG: BaseThread object created:HandlerThread
+[2020-04-26 16:19:34,280] MainThread DEBUG: BaseThread object created:WatchDogThread
+[2020-04-26 16:19:34,280] MainThread DEBUG: BaseThread object created:HandlerThread

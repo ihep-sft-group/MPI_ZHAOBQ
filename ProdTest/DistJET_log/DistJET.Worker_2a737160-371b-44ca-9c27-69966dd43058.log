@@ -1,0 +1,425 @@
+[2019-06-25 22:39:26,476] MainThread INFO: [Agent] Running on host: node2
+[2019-06-25 22:39:26,476] MainThread DEBUG: [Agent] Start to connect to service <Default>
+[2019-06-25 22:39:26,757] MainThread INFO: [Agent] WorkerAgent run...
+[2019-06-25 22:39:26,797] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] time stamp = 1561473566.797319
+[2019-06-25 22:39:26,797] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {1: {'capacity': 1}, 'flag': 'FP', 'ctime': 1561473566.797319, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058'}
+[2019-06-25 22:39:26,908] MainThread INFO: [WorkerAgent] HeartBeat thread start...
+[2019-06-25 22:39:27,014] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:27,134] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:27,242] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:27,358] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:27,469] MainThread INFO: [WorkerAgent] Receive Registry_ACK msg = {'wid': 1, 'init': <python.Task.Task object at 0x7f378eeebdd0>, 'wmp': None, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'appid': 0}
+[2019-06-25 22:39:27,469] MainThread WARNING: [Agent] No specific worker input, use default
+[2019-06-25 22:39:27,469] MainThread INFO: [Agent] init_task:<python.Task.Task object at 0x7f378eeebdd0>, boot=['. /root/juno/Release//setup.sh']
+[2019-06-25 22:39:27,469] MainThread INFO: [Agent] Start up worker and initialize
+[2019-06-25 22:39:27,470] MainThread DEBUG: [Worker_0] Worker Process log path:/root/mpi/ProdTest/worker_0.log
+[2019-06-25 22:39:27,470] MainThread INFO: [Agent] Worker 0 start
+[2019-06-25 22:39:27,490] DistJET.BaseThread.worker_0 INFO: [Worker_0] Start to setup...
+[2019-06-25 22:39:27,493] MainThread DEBUG: [WorkerAgent] Wake up the heartbeat thread
+[2019-06-25 22:39:27,495] MainThread DEBUG: [Agent] All worker status = {0: 0}
+[2019-06-25 22:39:27,495] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {0: []}
+[2019-06-25 22:39:27,497] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 0, 'Task': [], 'health': {}, 'rTask': {0: []}, 'ctime': 1561473567.496099}
+[2019-06-25 22:39:27,648] MainThread DEBUG: [Agent] All worker status = {0: 2}
+[2019-06-25 22:39:27,649] DistJET.BaseThread.worker_0 ERROR: [Worker_0] Worker setup error, errorcode = 1
+[2019-06-25 22:39:27,649] DistJET.BaseThread.worker_0 INFO: [Worker_0] Start to setup...
+[2019-06-25 22:39:27,667] DistJET.BaseThread.worker_0 ERROR: [Worker_0] Worker setup error, errorcode = 1
+[2019-06-25 22:39:27,668] DistJET.BaseThread.worker_0 INFO: [Worker_0] Start to setup...
+[2019-06-25 22:39:27,704] DistJET.BaseThread.worker_0 ERROR: [Worker_0] Worker setup error, errorcode = 1
+[2019-06-25 22:39:27,705] DistJET.BaseThread.worker_0 ERROR: [Error] Worker 0 initialization error, error msg = Task fail, return code is not zero
+[2019-06-25 22:39:27,710] DistJET.BaseThread.worker_0 DEBUG: [Worker_0] Finalize task = None
+[2019-06-25 22:39:27,710] DistJET.BaseThread.worker_0 DEBUG: [Worker_0] Ready to finalize, fin_task=<type 'NoneType'>
+[2019-06-25 22:39:27,783] MainThread DEBUG: [Agent] All worker status = {0: 3}
+[2019-06-25 22:39:27,811] Thread-3 INFO: [Worker_0] Process finalize, status=SUCCESS
+[2019-06-25 22:39:27,811] Thread-3 INFO: [Agent] Worker 0 finalized, remove from list
+[2019-06-25 22:39:27,812] DistJET.BaseThread.worker_0 INFO: [Worker_0] Stop...
+[2019-06-25 22:39:27,812] DistJET.BaseThread.worker_0 INFO: [Worker_0] Exit run method
+[2019-06-25 22:39:27,891] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:27,995] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:28,099] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:28,143] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:28,143] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'Task': [], 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 3, 'wid': 1, 'health': {}, 120: {'errmsg': 'Task fail, return code is not zero', 'recode': 1}, 'rTask': {}, 'ctime': 1561473568.143169}
+[2019-06-25 22:39:28,280] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:28,376] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:28,376] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 122: {'errmsg': 'SUCCESS', 'recode': 0}, 'rTask': {}, 'ctime': 1561473568.376686}
+[2019-06-25 22:39:28,579] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:28,690] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:28,690] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473568.6907}
+[2019-06-25 22:39:28,945] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:29,041] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:29,041] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473569.041682}
+[2019-06-25 22:39:29,156] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:29,266] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:29,266] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473569.266693}
+[2019-06-25 22:39:29,653] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:29,756] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:29,756] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473569.756703}
+[2019-06-25 22:39:29,916] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:30,020] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:30,020] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473570.020704}
+[2019-06-25 22:39:30,290] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:30,395] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:30,395] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473570.395719}
+[2019-06-25 22:39:30,681] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:30,773] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:30,774] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473570.773812}
+[2019-06-25 22:39:31,200] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:31,302] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:31,302] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473571.302507}
+[2019-06-25 22:39:31,478] MainThread INFO: [WorkerAgent] Receive APP_FIN msg = <python.Task.Task object at 0x7f378eeeb990>
+[2019-06-25 22:39:31,479] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:31,479] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:31,541] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:31,541] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473571.541668}
+[2019-06-25 22:39:31,683] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:31,683] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:31,786] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:31,786] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473571.786717}
+[2019-06-25 22:39:31,878] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:31,878] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:31,971] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:31,972] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473571.971985}
+[2019-06-25 22:39:32,022] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:32,022] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:32,112] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:32,112] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473572.112808}
+[2019-06-25 22:39:32,317] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:32,317] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:32,418] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:32,418] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473572.41874}
+[2019-06-25 22:39:32,735] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:32,735] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:32,846] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:32,846] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473572.846712}
+[2019-06-25 22:39:32,956] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:32,956] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:33,046] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:33,046] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473573.046659}
+[2019-06-25 22:39:33,200] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:33,200] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:33,297] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:33,297] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473573.297498}
+[2019-06-25 22:39:33,357] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:33,357] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:33,468] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:33,468] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473573.468662}
+[2019-06-25 22:39:33,623] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:33,623] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:33,723] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:33,723] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473573.723694}
+[2019-06-25 22:39:33,790] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:33,790] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:33,882] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:33,882] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473573.882665}
+[2019-06-25 22:39:34,002] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:34,002] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:34,104] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:34,104] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473574.104732}
+[2019-06-25 22:39:34,156] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:34,156] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:34,269] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:34,269] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473574.269694}
+[2019-06-25 22:39:34,622] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:34,622] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:34,724] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:34,725] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473574.724839}
+[2019-06-25 22:39:34,869] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:34,869] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:34,978] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:34,978] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473574.978272}
+[2019-06-25 22:39:35,134] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:35,134] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:35,236] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:35,236] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473575.236707}
+[2019-06-25 22:39:35,407] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:35,407] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:35,510] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:35,510] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473575.510726}
+[2019-06-25 22:39:35,791] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:35,791] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:35,891] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:35,891] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473575.891773}
+[2019-06-25 22:39:36,324] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:36,324] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:36,421] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:36,421] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473576.421685}
+[2019-06-25 22:39:36,503] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:36,503] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:36,605] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:36,605] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473576.605763}
+[2019-06-25 22:39:36,682] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:36,682] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:36,781] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:36,782] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473576.781894}
+[2019-06-25 22:39:37,003] MainThread INFO: [WorkerAgent] Receive APP_FIN msg = <python.Task.Task object at 0x7f378c4ae8d0>
+[2019-06-25 22:39:37,003] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:37,003] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:37,102] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:37,103] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473577.102988}
+[2019-06-25 22:39:37,307] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:37,307] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:37,417] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:37,417] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473577.417553}
+[2019-06-25 22:39:37,534] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:37,534] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:37,633] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:37,633] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473577.633651}
+[2019-06-25 22:39:37,867] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:37,867] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:37,967] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:37,967] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473577.96767}
+[2019-06-25 22:39:38,014] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:38,014] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:38,125] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:38,126] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473578.125833}
+[2019-06-25 22:39:38,289] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:38,289] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:38,391] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:38,392] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473578.391909}
+[2019-06-25 22:39:38,513] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:38,513] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:38,612] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:38,613] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473578.612997}
+[2019-06-25 22:39:38,730] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:38,730] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:38,827] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:38,827] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473578.827734}
+[2019-06-25 22:39:39,142] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:39,142] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:39,235] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:39,236] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473579.235849}
+[2019-06-25 22:39:39,605] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:39,606] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:39,708] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:39,709] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473579.708985}
+[2019-06-25 22:39:39,885] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:39,885] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:39,991] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:39,991] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473579.991707}
+[2019-06-25 22:39:40,381] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:40,381] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:40,474] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:40,474] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473580.474707}
+[2019-06-25 22:39:40,513] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:40,513] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:40,619] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:40,619] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473580.619692}
+[2019-06-25 22:39:40,849] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:40,849] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:40,948] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:40,948] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473580.948694}
+[2019-06-25 22:39:41,048] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:41,048] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:41,144] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:41,144] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473581.144822}
+[2019-06-25 22:39:41,484] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:41,484] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:41,580] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:41,580] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473581.580676}
+[2019-06-25 22:39:41,844] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:41,844] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:41,949] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:41,949] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473581.949711}
+[2019-06-25 22:39:42,213] MainThread INFO: [WorkerAgent] Receive APP_FIN msg = <python.Task.Task object at 0x7f378eeeb990>
+[2019-06-25 22:39:42,213] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:42,213] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:42,312] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:42,312] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473582.312711}
+[2019-06-25 22:39:42,477] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:42,477] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:42,570] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:42,570] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473582.570709}
+[2019-06-25 22:39:42,695] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:42,695] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:42,806] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:42,807] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473582.806896}
+[2019-06-25 22:39:42,883] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:42,883] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:42,984] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:42,984] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473582.984691}
+[2019-06-25 22:39:43,051] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:43,051] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:43,145] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:43,146] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473583.146006}
+[2019-06-25 22:39:43,302] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:43,302] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:43,400] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:43,400] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473583.400753}
+[2019-06-25 22:39:43,600] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:43,600] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:43,694] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:43,694] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473583.694771}
+[2019-06-25 22:39:43,877] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:43,877] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:43,972] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:43,972] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473583.972713}
+[2019-06-25 22:39:44,212] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:44,212] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:44,313] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:44,313] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473584.313772}
+[2019-06-25 22:39:44,314] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:44,314] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:44,415] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:44,415] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473584.415692}
+[2019-06-25 22:39:44,438] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:44,438] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:44,539] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:44,539] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473584.539774}
+[2019-06-25 22:39:44,540] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:44,540] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:44,640] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:44,640] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473584.640815}
+[2019-06-25 22:39:44,663] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:44,663] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:44,768] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:44,769] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473584.768818}
+[2019-06-25 22:39:44,802] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:44,802] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:44,904] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:44,904] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473584.90475}
+[2019-06-25 22:39:44,945] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:44,945] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:45,056] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:45,056] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473585.056771}
+[2019-06-25 22:39:45,088] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:45,088] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:45,191] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:45,191] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473585.19171}
+[2019-06-25 22:39:45,192] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:45,192] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:45,293] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:45,293] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473585.293685}
+[2019-06-25 22:39:45,307] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:45,307] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:45,408] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:45,408] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473585.408803}
+[2019-06-25 22:39:45,409] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:45,409] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:45,510] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:45,510] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473585.510676}
+[2019-06-25 22:39:45,527] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:45,527] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:45,633] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:45,633] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473585.633651}
+[2019-06-25 22:39:45,634] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:45,634] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:45,736] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:45,736] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473585.736734}
+[2019-06-25 22:39:45,741] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:45,742] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:45,847] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:45,848] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473585.847984}
+[2019-06-25 22:39:45,848] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:45,848] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:45,949] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:45,949] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473585.949774}
+[2019-06-25 22:39:45,950] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:45,950] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:46,050] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:46,050] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473586.05068}
+[2019-06-25 22:39:46,051] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:46,051] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:46,151] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:46,152] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473586.151894}
+[2019-06-25 22:39:46,207] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:46,207] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:46,308] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:46,308] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473586.30883}
+[2019-06-25 22:39:46,313] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:46,313] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:46,415] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:46,415] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473586.415667}
+[2019-06-25 22:39:46,427] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:46,427] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:46,533] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:46,533] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473586.533682}
+[2019-06-25 22:39:46,550] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:46,550] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:46,651] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:46,651] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473586.651697}
+[2019-06-25 22:39:46,666] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:46,666] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:46,769] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:46,769] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473586.769567}
+[2019-06-25 22:39:46,773] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:46,773] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:46,879] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:46,879] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473586.87968}
+[2019-06-25 22:39:46,885] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:46,885] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:46,994] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:46,994] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473586.994699}
+[2019-06-25 22:39:47,016] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:47,016] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:47,117] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:47,117] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473587.117713}
+[2019-06-25 22:39:47,129] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:47,129] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:47,230] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:47,230] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473587.230701}
+[2019-06-25 22:39:47,242] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:47,242] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:47,343] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:47,343] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473587.343776}
+[2019-06-25 22:39:47,347] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:47,347] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:47,451] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:47,451] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473587.451777}
+[2019-06-25 22:39:47,457] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:47,457] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:47,560] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:47,560] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473587.560705}
+[2019-06-25 22:39:47,561] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:47,561] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:47,662] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:47,662] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473587.662687}
+[2019-06-25 22:39:47,668] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:47,668] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:47,769] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:47,769] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473587.769698}
+[2019-06-25 22:39:47,812] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:47,812] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:47,913] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:47,913] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473587.913725}
+[2019-06-25 22:39:47,934] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:47,934] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:48,040] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:48,040] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473588.040663}
+[2019-06-25 22:39:48,058] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:48,058] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:48,160] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:48,160] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473588.160694}
+[2019-06-25 22:39:48,164] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:48,164] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:48,267] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:48,267] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473588.267678}
+[2019-06-25 22:39:48,268] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:48,268] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:48,369] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:48,369] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473588.369765}
+[2019-06-25 22:39:48,396] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:48,396] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:48,500] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:48,500] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473588.500694}
+[2019-06-25 22:39:48,501] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:48,501] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:48,601] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:48,601] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473588.60177}
+[2019-06-25 22:39:48,618] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:48,618] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:48,720] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:48,720] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473588.720807}
+[2019-06-25 22:39:48,753] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:48,753] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:48,854] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:48,854] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473588.854727}
+[2019-06-25 22:39:48,956] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:48,956] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:49,057] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:49,057] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473589.0577}
+[2019-06-25 22:39:49,112] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-25 22:39:49,112] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-25 22:39:49,217] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-25 22:39:49,217] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561473589.217734}
+[2019-06-25 22:39:49,261] MainThread INFO: [WorkerAgent] HeartBeat stop...
+[2019-06-25 22:39:49,369] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'Task': {}, 'uuid': '2a737160-371b-44ca-9c27-69966dd43058', 'flag': 'LP', 'wid': 1, 'health': {}, 'ctime': 1561473589.369496}
+[2019-06-25 22:39:49,406] MainThread INFO: [WorkerAgent] Agent stop..., exit code = 0

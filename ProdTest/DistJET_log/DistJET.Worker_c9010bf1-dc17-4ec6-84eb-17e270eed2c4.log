@@ -1,0 +1,58 @@
+[2019-06-26 09:46:33,488] MainThread INFO: [Agent] Running on host: node2
+[2019-06-26 09:46:33,489] MainThread DEBUG: [Agent] Start to connect to service <Default>
+[2019-06-26 09:46:33,779] MainThread INFO: [Agent] WorkerAgent run...
+[2019-06-26 09:46:33,808] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] time stamp = 1561513593.808139
+[2019-06-26 09:46:33,808] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {1: {'capacity': 1}, 'flag': 'FP', 'ctime': 1561513593.808139, 'uuid': 'c9010bf1-dc17-4ec6-84eb-17e270eed2c4'}
+[2019-06-26 09:46:33,897] MainThread INFO: [WorkerAgent] HeartBeat thread start...
+[2019-06-26 09:46:34,003] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:34,107] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:34,212] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:34,313] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:34,415] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:34,520] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:34,627] MainThread INFO: [WorkerAgent] Receive Registry_ACK msg = {'wid': 1, 'init': <python.Task.Task object at 0x7f7670d82dd0>, 'wmp': None, 'uuid': 'c9010bf1-dc17-4ec6-84eb-17e270eed2c4', 'appid': 0}
+[2019-06-26 09:46:34,627] MainThread WARNING: [Agent] No specific worker input, use default
+[2019-06-26 09:46:34,627] MainThread INFO: [Agent] init_task:<python.Task.Task object at 0x7f7670d82dd0>, boot=['. /root/juno/Release//setup.sh']
+[2019-06-26 09:46:34,627] MainThread INFO: [Agent] Start up worker and initialize
+[2019-06-26 09:46:34,628] MainThread DEBUG: [Worker_0] Worker Process log path:/root/mpi/ProdTest/worker_0.log
+[2019-06-26 09:46:34,628] MainThread INFO: [Agent] Worker 0 start
+[2019-06-26 09:46:34,644] DistJET.BaseThread.worker_0 INFO: [Worker_0] Start to setup...
+[2019-06-26 09:46:34,646] MainThread DEBUG: [WorkerAgent] Wake up the heartbeat thread
+[2019-06-26 09:46:34,647] MainThread DEBUG: [Agent] All worker status = {0: 0}
+[2019-06-26 09:46:34,647] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {0: []}
+[2019-06-26 09:46:34,648] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': 'c9010bf1-dc17-4ec6-84eb-17e270eed2c4', 'wstatus': 0, 'Task': [], 'health': {}, 'rTask': {0: []}, 'ctime': 1561513594.647755}
+[2019-06-26 09:46:34,864] MainThread DEBUG: [Agent] All worker status = {0: 2}
+[2019-06-26 09:46:34,865] DistJET.BaseThread.worker_0 ERROR: [Worker_0] Worker setup error, errorcode = 1
+[2019-06-26 09:46:34,865] DistJET.BaseThread.worker_0 INFO: [Worker_0] Start to setup...
+[2019-06-26 09:46:34,883] DistJET.BaseThread.worker_0 ERROR: [Worker_0] Worker setup error, errorcode = 1
+[2019-06-26 09:46:34,884] DistJET.BaseThread.worker_0 INFO: [Worker_0] Start to setup...
+[2019-06-26 09:46:34,908] DistJET.BaseThread.worker_0 ERROR: [Worker_0] Worker setup error, errorcode = 1
+[2019-06-26 09:46:34,908] DistJET.BaseThread.worker_0 ERROR: [Error] Worker 0 initialization error, error msg = Task fail, return code is not zero
+[2019-06-26 09:46:34,927] DistJET.BaseThread.worker_0 DEBUG: [Worker_0] Finalize task = None
+[2019-06-26 09:46:34,928] DistJET.BaseThread.worker_0 DEBUG: [Worker_0] Ready to finalize, fin_task=<type 'NoneType'>
+[2019-06-26 09:46:34,972] MainThread DEBUG: [Agent] All worker status = {0: 3}
+[2019-06-26 09:46:35,032] Thread-3 INFO: [Worker_0] Process finalize, status=SUCCESS
+[2019-06-26 09:46:35,032] Thread-3 INFO: [Agent] Worker 0 finalized, remove from list
+[2019-06-26 09:46:35,034] DistJET.BaseThread.worker_0 INFO: [Worker_0] Stop...
+[2019-06-26 09:46:35,034] DistJET.BaseThread.worker_0 INFO: [Worker_0] Exit run method
+[2019-06-26 09:46:35,096] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:35,194] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-26 09:46:35,194] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'Task': [], 'uuid': 'c9010bf1-dc17-4ec6-84eb-17e270eed2c4', 'wstatus': 3, 'wid': 1, 'health': {}, 120: {'errmsg': 'Task fail, return code is not zero', 'recode': 1}, 'rTask': {}, 'ctime': 1561513595.194783}
+[2019-06-26 09:46:35,269] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:35,371] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-26 09:46:35,372] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': 'c9010bf1-dc17-4ec6-84eb-17e270eed2c4', 'wstatus': 9, 'Task': [], 'health': {}, 122: {'errmsg': 'SUCCESS', 'recode': 0}, 'rTask': {}, 'ctime': 1561513595.371885}
+[2019-06-26 09:46:35,584] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:35,675] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-26 09:46:35,675] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': 'c9010bf1-dc17-4ec6-84eb-17e270eed2c4', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561513595.675757}
+[2019-06-26 09:46:35,735] MainThread INFO: [WorkerAgent] Receive APP_FIN msg = <python.Task.Task object at 0x7f7670d82990>
+[2019-06-26 09:46:35,736] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-26 09:46:35,736] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:35,837] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {}
+[2019-06-26 09:46:35,837] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': 'c9010bf1-dc17-4ec6-84eb-17e270eed2c4', 'wstatus': 9, 'Task': [], 'health': {}, 'rTask': {}, 'ctime': 1561513595.83771}
+[2019-06-26 09:46:35,995] MainThread INFO: [Agent] Receive WORKER_STOP msg = 
+[2019-06-26 09:46:35,995] MainThread DEBUG: [Agent] Wait for master logout message
+[2019-06-26 09:46:35,996] MainThread DEBUG: [Agent] All worker status = {}
+[2019-06-26 09:46:35,996] MainThread INFO: [WorkerAgent] HeartBeat stop...
+[2019-06-26 09:46:36,096] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'Task': {}, 'uuid': 'c9010bf1-dc17-4ec6-84eb-17e270eed2c4', 'flag': 'LP', 'wid': 1, 'health': {}, 'ctime': 1561513596.096529}
+[2019-06-26 09:46:36,316] MainThread INFO: [WorkerAgent] Agent stop..., exit code = 0
+[2019-06-26 09:46:36,316] MainThread DEBUG: [Agent] remains 1 alive thread, [[<_MainThread(MainThread, started 140146909693760)>]]

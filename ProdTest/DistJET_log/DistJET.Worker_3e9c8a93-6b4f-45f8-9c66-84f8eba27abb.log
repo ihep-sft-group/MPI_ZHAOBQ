@@ -1,0 +1,37 @@
+[2019-06-26 19:42:09,177] MainThread INFO: [Agent] Running on host: node2
+[2019-06-26 19:42:09,178] MainThread DEBUG: [Agent] Start to connect to service <Default>
+[2019-06-26 19:42:09,282] MainThread INFO: [Agent] WorkerAgent run...
+[2019-06-26 19:42:09,284] MainThread INFO: [WorkerAgent] HeartBeat thread start...
+[2019-06-26 19:42:09,284] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] time stamp = 1561549329.284704
+[2019-06-26 19:42:09,285] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {1: {'capacity': 1}, 'flag': 'FP', 'ctime': 1561549329.284704, 'uuid': '3e9c8a93-6b4f-45f8-9c66-84f8eba27abb'}
+[2019-06-26 19:42:09,385] MainThread INFO: [WorkerAgent] Receive Registry_ACK msg = {'wid': 1, 'init': <python.Task.Task object at 0x7fc3d22fdd50>, 'wmp': None, 'uuid': '3e9c8a93-6b4f-45f8-9c66-84f8eba27abb', 'appid': 0}
+[2019-06-26 19:42:09,386] MainThread WARNING: [Agent] No specific worker input, use default
+[2019-06-26 19:42:09,386] MainThread INFO: [Agent] init_task:<python.Task.Task object at 0x7fc3d22fdd50>, boot=['. /root/juno/setup.sh']
+[2019-06-26 19:42:09,386] MainThread INFO: [Agent] Start up worker and initialize
+[2019-06-26 19:42:09,387] MainThread DEBUG: [Worker_0] Worker Process log path:/root/mpi/ProdTest/worker_0.log
+[2019-06-26 19:42:09,387] MainThread INFO: [Agent] Worker 0 start
+[2019-06-26 19:42:09,396] MainThread DEBUG: [WorkerAgent] Wake up the heartbeat thread
+[2019-06-26 19:42:09,396] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {0: []}
+[2019-06-26 19:42:09,396] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '3e9c8a93-6b4f-45f8-9c66-84f8eba27abb', 'wstatus': 0, 'Task': [], 'health': {}, 'rTask': {0: []}, 'ctime': 1561549329.39681}
+[2019-06-26 19:42:09,420] MainThread DEBUG: [Agent] All worker status = {0: 0}
+[2019-06-26 19:42:09,420] DistJET.BaseThread.worker_0 INFO: [Worker_0] Start to setup...
+[2019-06-26 19:42:09,442] DistJET.BaseThread.worker_0 INFO: [Worker_0] Worker setup successfully
+[2019-06-26 19:42:09,442] DistJET.BaseThread.worker_0 INFO: [Agent] Feed back app init result
+[2019-06-26 19:42:09,520] MainThread DEBUG: [Agent] Worker need more tasks, ask for new task
+[2019-06-26 19:42:09,520] MainThread DEBUG: [Agent] All worker status = {0: 12}
+[2019-06-26 19:42:09,599] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {0: []}
+[2019-06-26 19:42:09,601] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'Task': [], 'uuid': '3e9c8a93-6b4f-45f8-9c66-84f8eba27abb', 112: 1, 'wstatus': 12, 'wid': 1, 'health': {}, 120: {'errmsg': 'SUCCESS', 'recode': 0}, 'rTask': {0: []}, 'ctime': 1561549329.601359}
+[2019-06-26 19:42:09,621] MainThread DEBUG: [Agent] All worker status = {0: 12}
+[2019-06-26 19:42:09,723] MainThread INFO: [WorkerAgent] Add new task : [0]
+[2019-06-26 19:42:09,724] MainThread DEBUG: [Agent] Worker 0 IDLE, wake up worker
+[2019-06-26 19:42:09,724] MainThread DEBUG: [Agent] All worker status = {0: 12}
+[2019-06-26 19:42:09,803] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {0: [0]}
+[2019-06-26 19:42:09,806] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '3e9c8a93-6b4f-45f8-9c66-84f8eba27abb', 'wstatus': 12, 'Task': [], 'health': {}, 'rTask': {0: [0]}, 'ctime': 1561549329.80637}
+[2019-06-26 19:42:09,830] MainThread DEBUG: [Agent] All worker status = {0: 5}
+[2019-06-26 19:42:09,934] MainThread DEBUG: [Agent] All worker status = {0: 5}
+[2019-06-26 19:42:10,043] MainThread DEBUG: [Agent] All worker status = {0: 5}
+[2019-06-26 19:42:10,125] DistJET.BaseThread.HeartbeatThread DEBUG: [Agent] Running task = {0: [0]}
+[2019-06-26 19:42:10,135] DistJET.BaseThread.HeartbeatThread DEBUG: [HeartBeat] Send msg = {'wid': 1, 'uuid': '3e9c8a93-6b4f-45f8-9c66-84f8eba27abb', 'wstatus': 5, 'Task': [], 'health': {}, 'rTask': {0: [0]}, 'ctime': 1561549330.135436}
+[2019-06-26 19:42:10,145] MainThread DEBUG: [Agent] All worker status = {0: 5}
+[2019-06-26 19:42:10,191] Thread-1 INFO: [Worker_0] Task 0 finish, status=SUCCESS
+[2019-06-26 19:42:10,196] DistJET.BaseThread.worker_0 INFO: [Agent] Worker finish task 0

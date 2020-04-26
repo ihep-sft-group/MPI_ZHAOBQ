@@ -1,0 +1,5 @@
+@Process: create process for tasks, pid=467
+<process>@init: initial comm = ['. /root/juno/setup.sh']
+[Setup_INFO] JUNO Software Environment Setup.
+
+[Proc] Add task command=['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev\n', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh\n', 'pwd\n'], logfile=/root/mpi/ProdTest/task_log/task_0.tmp|None

@@ -1,0 +1,28 @@
+
+******************** script "cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev" Running log ********************
+@recode:0
+
+
+
+
+return code = 0
+******************** script "bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh" Running log ********************
+This is read data!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+@recode:0
+
+
+
+
+return code = 0
+******************** script "pwd" Running log ********************
+/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev
+@recode:0
+
+
+
+
+return code = 0
+start time = Wed Jun 26 19:42:10 2019 
+end time = Wed Jun 26 19:42:10 2019
+

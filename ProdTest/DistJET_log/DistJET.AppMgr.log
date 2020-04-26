@@ -1,0 +1,556 @@
+[2019-06-24 16:18:20,290] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 16:18:20,290] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 16:18:20,290] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f55f99b1fd0>}
+[2019-06-24 16:18:20,290] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f55f99b1fd0>}
+[2019-06-24 16:18:20,301] MainThread ERROR: [AppMgr]: Create 0 task, check app split() method
+[2019-06-24 16:18:20,301] MainThread ERROR: [AppMgr]: Create 0 task, check app split() method
+[2019-06-24 16:21:38,766] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 16:21:38,766] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 16:21:38,766] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fecf4e53fd0>}
+[2019-06-24 16:21:38,766] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fecf4e53fd0>}
+[2019-06-24 16:21:38,767] MainThread ERROR: [AppMgr]: Create 0 task, check app split() method
+[2019-06-24 16:21:38,767] MainThread ERROR: [AppMgr]: Create 0 task, check app split() method
+[2019-06-24 16:38:04,784] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 16:38:04,784] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 16:38:04,785] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fa06264ffd0>}
+[2019-06-24 16:38:04,785] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fa06264ffd0>}
+[2019-06-24 16:38:04,785] MainThread ERROR: [AppMgr]: Create 0 task, check app split() method
+[2019-06-24 16:38:04,785] MainThread ERROR: [AppMgr]: Create 0 task, check app split() method
+[2019-06-24 17:14:14,984] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 17:14:14,984] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 17:14:14,984] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fa56e062050>}
+[2019-06-24 17:14:14,984] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fa56e062050>}
+[2019-06-24 17:14:14,985] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-24 17:14:14,985] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-24 17:14:14,985] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-24 17:14:14,985] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-24 17:14:14,985] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fa56aac5d10>}
+[2019-06-24 17:14:14,985] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fa56aac5d10>}
+[2019-06-24 17:14:14,986] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-24 17:14:14,986] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-24 17:14:14,986] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-24 17:14:14,986] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-24 17:14:50,239] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 17:14:50,239] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 17:14:50,239] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7ff5ce3b0090>}
+[2019-06-24 17:14:50,239] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7ff5ce3b0090>}
+[2019-06-24 17:14:50,239] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-24 17:14:50,239] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-24 17:14:50,240] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-24 17:14:50,240] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-24 17:14:50,240] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7ff5cae0bd50>}
+[2019-06-24 17:14:50,240] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7ff5cae0bd50>}
+[2019-06-24 17:14:50,240] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-24 17:14:50,240] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-24 17:14:50,240] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-24 17:14:50,240] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-24 19:50:19,595] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 19:50:19,595] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 19:50:19,595] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7faad3d05090>}
+[2019-06-24 19:50:19,595] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7faad3d05090>}
+[2019-06-24 19:50:19,596] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-24 19:50:19,596] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-24 19:50:19,596] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-24 19:50:19,596] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-24 19:50:19,596] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7faad0760d50>}
+[2019-06-24 19:50:19,596] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7faad0760d50>}
+[2019-06-24 19:50:19,596] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-24 19:50:19,596] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-24 19:50:19,597] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-24 19:50:19,597] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-24 19:52:29,279] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 19:52:29,279] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-24 19:52:29,279] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f5bdccf4090>}
+[2019-06-24 19:52:29,279] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f5bdccf4090>}
+[2019-06-24 19:52:29,280] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-24 19:52:29,280] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-24 19:52:29,280] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-24 19:52:29,280] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-24 19:52:29,280] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f5bd974fd50>}
+[2019-06-24 19:52:29,280] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f5bd974fd50>}
+[2019-06-24 19:52:29,280] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-24 19:52:29,280] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-24 19:52:29,281] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-24 19:52:29,281] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-24 20:37:46,334] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:37:46,334] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:37:46,334] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:37:46,334] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:42:04,133] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:42:04,133] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:42:04,133] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:42:04,133] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:48:49,190] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:48:49,190] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:48:49,190] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:48:49,190] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:50:06,005] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:50:06,005] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:50:06,005] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:50:06,005] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:50:25,051] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:50:25,051] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:50:25,052] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:50:25,052] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:54:19,863] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:54:19,863] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:54:19,863] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:54:19,863] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:54:45,883] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:54:45,883] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:54:45,883] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:54:45,883] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:56:07,288] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:56:07,288] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:56:07,289] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:56:07,289] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:58:47,308] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:58:47,308] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 20:58:47,309] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 20:58:47,309] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 21:00:35,911] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 21:00:35,911] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 21:00:35,911] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 21:00:35,911] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 21:03:46,772] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 21:03:46,772] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-24 21:03:46,773] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-24 21:03:46,773] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 17:17:32,139] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 17:17:32,139] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 17:17:32,139] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 17:17:32,139] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 20:21:29,311] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 20:21:29,311] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 20:21:29,311] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 20:21:29,311] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 20:44:30,818] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 20:44:30,818] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 20:44:30,818] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 20:44:30,818] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 20:48:06,284] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 20:48:06,284] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 20:48:06,284] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 20:48:06,284] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 20:48:57,797] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 20:48:57,797] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 20:48:57,797] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 20:48:57,797] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 21:14:55,103] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 21:14:55,103] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 21:14:55,103] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 21:14:55,103] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 21:15:14,167] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 21:15:14,167] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 21:15:14,167] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 21:15:14,167] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 21:21:36,161] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 21:21:36,161] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 21:21:36,161] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 21:21:36,161] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 21:23:23,402] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 21:23:23,402] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 21:23:23,402] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 21:23:23,402] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 21:46:29,763] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 21:46:29,763] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 21:46:29,763] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 21:46:29,763] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 22:01:42,425] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 22:01:42,425] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 22:01:42,425] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 22:01:42,425] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 22:02:46,352] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 22:02:46,352] MainThread WARNING: [AppMgr] APP AnalysisApp is incompatible, skip
+[2019-06-25 22:02:46,353] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 22:02:46,353] MainThread DEBUG: [AppMgr] Load apps, the number of app = {}
+[2019-06-25 22:05:30,382] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-25 22:05:30,382] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-25 22:05:30,382] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f28670d5090>}
+[2019-06-25 22:05:30,382] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f28670d5090>}
+[2019-06-25 22:05:30,383] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-25 22:05:30,383] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-25 22:05:30,384] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-25 22:05:30,384] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-25 22:05:30,384] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f2863b33d50>}
+[2019-06-25 22:05:30,384] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f2863b33d50>}
+[2019-06-25 22:05:30,384] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-25 22:05:30,384] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-25 22:05:30,384] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-25 22:05:30,384] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-25 22:07:10,761] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-25 22:07:10,761] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-25 22:07:10,761] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f0acd378090>}
+[2019-06-25 22:07:10,761] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f0acd378090>}
+[2019-06-25 22:07:10,762] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-25 22:07:10,762] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-25 22:07:10,762] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-25 22:07:10,762] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-25 22:07:10,762] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f0ac9dd6d50>}
+[2019-06-25 22:07:10,762] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f0ac9dd6d50>}
+[2019-06-25 22:07:10,762] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-25 22:07:10,762] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-25 22:07:10,763] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-25 22:07:10,763] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-25 22:32:13,424] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:13,424] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:19,023] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:19,023] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:24,076] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:24,076] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:29,249] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:29,249] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:34,465] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:34,465] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:39,756] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:39,756] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:32:44,953] DistJET.BaseThread.WatchDog INFO: [Scheduler] Remove worker 1...
+[2019-06-25 22:32:44,953] DistJET.BaseThread.WatchDog INFO: [Scheduler] Remove worker 1...
+[2019-06-25 22:39:20,836] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-25 22:39:20,836] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-25 22:39:20,836] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f926c7cc090>}
+[2019-06-25 22:39:20,836] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f926c7cc090>}
+[2019-06-25 22:39:20,837] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-25 22:39:20,837] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-25 22:39:20,837] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-25 22:39:20,837] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-25 22:39:20,837] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f926922ad50>}
+[2019-06-25 22:39:20,837] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f926922ad50>}
+[2019-06-25 22:39:20,838] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-25 22:39:20,838] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-25 22:39:20,838] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-25 22:39:20,838] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-25 22:39:27,240] DistJET.BaseThread.Handler DEBUG: [AppMgr] Application:AnalysisApp create setup command: ['. /root/juno/Release//setup.sh']
+[2019-06-25 22:39:27,240] DistJET.BaseThread.Handler DEBUG: [AppMgr] Application:AnalysisApp create setup command: ['. /root/juno/Release//setup.sh']
+[2019-06-25 22:39:31,267] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:39:31,267] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:39:36,612] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:39:36,612] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:39:41,753] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-25 22:39:41,753] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-26 09:46:06,169] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 09:46:06,169] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 09:46:06,169] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7faa5c118090>}
+[2019-06-26 09:46:06,169] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7faa5c118090>}
+[2019-06-26 09:46:06,169] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 09:46:06,169] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 09:46:06,170] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 09:46:06,170] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 09:46:06,170] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7faa56e7ad50>}
+[2019-06-26 09:46:06,170] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7faa56e7ad50>}
+[2019-06-26 09:46:06,170] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 09:46:06,170] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 09:46:06,170] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 09:46:06,170] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 09:46:24,774] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 09:46:24,774] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 09:46:24,774] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f90dc859090>}
+[2019-06-26 09:46:24,774] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f90dc859090>}
+[2019-06-26 09:46:24,775] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 09:46:24,775] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 09:46:24,775] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 09:46:24,775] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 09:46:24,775] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f90d92b7d50>}
+[2019-06-26 09:46:24,775] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f90d92b7d50>}
+[2019-06-26 09:46:24,775] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 09:46:24,775] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 09:46:24,775] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 09:46:24,775] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 09:46:34,510] DistJET.BaseThread.Handler DEBUG: [AppMgr] Application:AnalysisApp create setup command: ['. /root/juno/Release//setup.sh']
+[2019-06-26 09:46:34,510] DistJET.BaseThread.Handler DEBUG: [AppMgr] Application:AnalysisApp create setup command: ['. /root/juno/Release//setup.sh']
+[2019-06-26 09:46:35,501] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-26 09:46:35,501] DistJET.BaseThread.WatchDog DEBUG: [AppMgr] Application:AnalysisApp create uninstall command: []
+[2019-06-26 09:46:36,401] DistJET.BaseThread.Handler INFO: [Scheduler] Remove worker 1...
+[2019-06-26 09:46:36,401] DistJET.BaseThread.Handler INFO: [Scheduler] Remove worker 1...
+[2019-06-26 15:10:51,217] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 15:10:51,217] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 15:10:51,217] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fb3659d4050>}
+[2019-06-26 15:10:51,217] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fb3659d4050>}
+[2019-06-26 15:10:51,218] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 15:10:51,218] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 15:10:51,218] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 15:10:51,218] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 15:10:51,218] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fb36243ed10>}
+[2019-06-26 15:10:51,218] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fb36243ed10>}
+[2019-06-26 15:10:51,218] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 15:10:51,218] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 15:10:51,218] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 15:10:51,218] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 15:10:58,145] DistJET.BaseThread.Handler DEBUG: [AppMgr] Application:AnalysisApp create setup command: ['. /root/juno/setup.sh']
+[2019-06-26 15:10:58,145] DistJET.BaseThread.Handler DEBUG: [AppMgr] Application:AnalysisApp create setup command: ['. /root/juno/setup.sh']
+[2019-06-26 15:10:59,803] DistJET.BaseThread.Handler INFO: [Scheduler] Assign [0] to worker 1
+[2019-06-26 15:10:59,803] DistJET.BaseThread.Handler INFO: [Scheduler] Assign [0] to worker 1
+[2019-06-26 15:42:19,856] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 15:42:19,856] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 15:42:19,865] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fae0dd6a050>}
+[2019-06-26 15:42:19,865] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fae0dd6a050>}
+[2019-06-26 15:42:19,888] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 15:42:19,888] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 15:42:19,889] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 15:42:19,889] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 15:42:19,889] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fae0a7d4d10>}
+[2019-06-26 15:42:19,889] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fae0a7d4d10>}
+[2019-06-26 15:42:19,889] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 15:42:19,889] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 15:42:19,889] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 15:42:19,889] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 15:42:42,270] DistJET.BaseThread.Handler DEBUG: [AppMgr] Application:AnalysisApp create setup command: ['. /root/juno/setup.sh']
+[2019-06-26 15:42:42,270] DistJET.BaseThread.Handler DEBUG: [AppMgr] Application:AnalysisApp create setup command: ['. /root/juno/setup.sh']
+[2019-06-26 15:42:43,832] DistJET.BaseThread.Handler INFO: [Scheduler] Assign [0] to worker 1
+[2019-06-26 15:42:43,832] DistJET.BaseThread.Handler INFO: [Scheduler] Assign [0] to worker 1
+[2019-06-26 19:40:52,715] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 19:40:52,715] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 19:40:52,716] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f6ace725050>}
+[2019-06-26 19:40:52,716] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f6ace725050>}
+[2019-06-26 19:40:52,717] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 19:40:52,717] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 19:40:52,717] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 19:40:52,717] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 19:40:52,718] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f6acb18fd10>}
+[2019-06-26 19:40:52,718] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f6acb18fd10>}
+[2019-06-26 19:40:52,718] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 19:40:52,718] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 19:40:52,719] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 19:40:52,719] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 19:41:16,694] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 19:41:16,694] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 19:41:16,695] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f2c2b016050>}
+[2019-06-26 19:41:16,695] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f2c2b016050>}
+[2019-06-26 19:41:16,696] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 19:41:16,696] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 19:41:16,696] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 19:41:16,696] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 19:41:16,697] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f2c27a80d10>}
+[2019-06-26 19:41:16,697] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f2c27a80d10>}
+[2019-06-26 19:41:16,697] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 19:41:16,697] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 19:41:16,698] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 19:41:16,698] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 19:41:57,822] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 19:41:57,822] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-06-26 19:41:57,823] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f62bb477050>}
+[2019-06-26 19:41:57,823] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f62bb477050>}
+[2019-06-26 19:41:57,824] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 19:41:57,824] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-06-26 19:41:57,825] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 19:41:57,825] MainThread INFO: [AppMgr]: Create 1 task
+[2019-06-26 19:41:57,825] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f62b7ee1d10>}
+[2019-06-26 19:41:57,825] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f62b7ee1d10>}
+[2019-06-26 19:41:57,826] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 19:41:57,826] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-06-26 19:41:57,826] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 19:41:57,826] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-06-26 19:42:09,332] DistJET.BaseThread.Handler DEBUG: [AppMgr] Application:AnalysisApp create setup command: ['. /root/juno/setup.sh']
+[2019-06-26 19:42:09,332] DistJET.BaseThread.Handler DEBUG: [AppMgr] Application:AnalysisApp create setup command: ['. /root/juno/setup.sh']
+[2019-06-26 19:42:09,618] DistJET.BaseThread.Handler INFO: [Scheduler] Assign [0] to worker 1
+[2019-06-26 19:42:09,618] DistJET.BaseThread.Handler INFO: [Scheduler] Assign [0] to worker 1
+[2019-07-03 11:18:10,672] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:18:10,672] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:18:10,680] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f945cf7d310>}
+[2019-07-03 11:18:10,680] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f945cf7d310>}
+[2019-07-03 11:18:10,709] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:18:10,709] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:18:10,710] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:18:10,710] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:18:10,710] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f9459a070d0>}
+[2019-07-03 11:18:10,710] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f9459a070d0>}
+[2019-07-03 11:18:10,711] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:18:10,711] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:18:10,711] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:18:10,711] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:29:01,956] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:29:01,956] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:29:01,957] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f7d5561b310>}
+[2019-07-03 11:29:01,957] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f7d5561b310>}
+[2019-07-03 11:29:01,958] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:29:01,958] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:29:01,959] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:29:01,959] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:29:01,959] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f7d520a50d0>}
+[2019-07-03 11:29:01,959] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f7d520a50d0>}
+[2019-07-03 11:29:01,960] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:29:01,960] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:29:01,960] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:29:01,960] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:35:11,423] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:35:11,423] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:35:11,424] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f9a3ef4d090>}
+[2019-07-03 11:35:11,424] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f9a3ef4d090>}
+[2019-07-03 11:35:11,425] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:35:11,425] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:35:11,426] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:35:11,426] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:35:11,426] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f9a3b9aad50>}
+[2019-07-03 11:35:11,426] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f9a3b9aad50>}
+[2019-07-03 11:35:11,427] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:35:11,427] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:35:11,427] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:35:11,427] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:38:53,365] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:38:53,365] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:38:53,365] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fa42e581310>}
+[2019-07-03 11:38:53,365] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fa42e581310>}
+[2019-07-03 11:38:53,366] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:38:53,366] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:38:53,367] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:38:53,367] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:38:53,367] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fa42b00b0d0>}
+[2019-07-03 11:38:53,367] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fa42b00b0d0>}
+[2019-07-03 11:38:53,368] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:38:53,368] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:38:53,368] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:38:53,368] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:41:24,643] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:41:24,643] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:41:24,644] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fed1f51a310>}
+[2019-07-03 11:41:24,644] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fed1f51a310>}
+[2019-07-03 11:41:24,645] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:41:24,645] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:41:24,646] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:41:24,646] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:41:24,646] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fed1bfa40d0>}
+[2019-07-03 11:41:24,646] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fed1bfa40d0>}
+[2019-07-03 11:41:24,646] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:41:24,646] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:41:24,647] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:41:24,647] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:44:05,097] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:44:05,097] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-03 11:44:05,097] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fa1e62dc310>}
+[2019-07-03 11:44:05,097] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fa1e62dc310>}
+[2019-07-03 11:44:05,098] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:44:05,098] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-03 11:44:05,099] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:44:05,099] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-03 11:44:05,100] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fa1e2d660d0>}
+[2019-07-03 11:44:05,100] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fa1e2d660d0>}
+[2019-07-03 11:44:05,100] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:44:05,100] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-03 11:44:05,101] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-03 11:44:05,101] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-04 02:33:53,812] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-04 02:33:53,812] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-04 02:33:53,831] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fe5db3c5c90>}
+[2019-07-04 02:33:53,831] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fe5db3c5c90>}
+[2019-07-04 02:33:53,841] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-04 02:33:53,841] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-04 02:33:53,842] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-04 02:33:53,842] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-04 02:33:53,843] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fe5d7c48350>}
+[2019-07-04 02:33:53,843] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fe5d7c48350>}
+[2019-07-04 02:33:53,844] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-04 02:33:53,844] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-04 02:33:53,845] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-04 02:33:53,845] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-04 02:36:01,029] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-04 02:36:01,029] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-04 02:36:01,030] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f8686dd3e10>}
+[2019-07-04 02:36:01,030] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f8686dd3e10>}
+[2019-07-04 02:36:01,032] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-04 02:36:01,032] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-04 02:36:01,033] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-04 02:36:01,033] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-04 02:36:01,034] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f8681818310>}
+[2019-07-04 02:36:01,034] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f8681818310>}
+[2019-07-04 02:36:01,035] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-04 02:36:01,035] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-04 02:36:01,036] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-04 02:36:01,036] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-04 03:30:17,579] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-04 03:30:17,579] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-04 03:30:17,580] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f2d74b85e10>}
+[2019-07-04 03:30:17,580] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f2d74b85e10>}
+[2019-07-04 03:30:17,581] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-04 03:30:17,581] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-04 03:30:17,582] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-04 03:30:17,582] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-04 03:30:17,585] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f2d71408310>}
+[2019-07-04 03:30:17,585] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f2d71408310>}
+[2019-07-04 03:30:17,586] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-04 03:30:17,586] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-04 03:30:17,587] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-04 03:30:17,587] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-04 07:36:27,975] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-04 07:36:27,975] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2019-07-04 07:36:27,976] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fa71372ae10>}
+[2019-07-04 07:36:27,976] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fa71372ae10>}
+[2019-07-04 07:36:27,978] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-04 07:36:27,978] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2019-07-04 07:36:27,979] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-04 07:36:27,979] MainThread INFO: [AppMgr]: Create 1 task
+[2019-07-04 07:36:27,979] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fa70ffad310>}
+[2019-07-04 07:36:27,979] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fa70ffad310>}
+[2019-07-04 07:36:27,981] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-04 07:36:27,981] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2019-07-04 07:36:27,981] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2019-07-04 07:36:27,981] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2020-04-26 15:54:58,984] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2020-04-26 15:54:58,984] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2020-04-26 15:54:58,984] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fc415703550>}
+[2020-04-26 15:54:58,984] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7fc415703550>}
+[2020-04-26 15:54:58,985] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2020-04-26 15:54:58,985] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2020-04-26 15:54:58,985] MainThread INFO: [AppMgr]: Create 1 task
+[2020-04-26 15:54:58,985] MainThread INFO: [AppMgr]: Create 1 task
+[2020-04-26 15:54:58,985] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fc41218b250>}
+[2020-04-26 15:54:58,985] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7fc41218b250>}
+[2020-04-26 15:54:58,986] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2020-04-26 15:54:58,986] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2020-04-26 15:54:58,986] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2020-04-26 15:54:58,986] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2020-04-26 15:55:29,070] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2020-04-26 15:55:29,070] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2020-04-26 15:55:29,070] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f23f69ad550>}
+[2020-04-26 15:55:29,070] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f23f69ad550>}
+[2020-04-26 15:55:29,071] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2020-04-26 15:55:29,071] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2020-04-26 15:55:29,071] MainThread INFO: [AppMgr]: Create 1 task
+[2020-04-26 15:55:29,071] MainThread INFO: [AppMgr]: Create 1 task
+[2020-04-26 15:55:29,071] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f23f3435250>}
+[2020-04-26 15:55:29,071] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f23f3435250>}
+[2020-04-26 15:55:29,071] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2020-04-26 15:55:29,071] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2020-04-26 15:55:29,072] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2020-04-26 15:55:29,072] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2020-04-26 16:15:31,795] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2020-04-26 16:15:31,795] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2020-04-26 16:15:31,796] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f1603046510>}
+[2020-04-26 16:15:31,796] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f1603046510>}
+[2020-04-26 16:15:31,796] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2020-04-26 16:15:31,796] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2020-04-26 16:15:31,796] MainThread INFO: [AppMgr]: Create 1 task
+[2020-04-26 16:15:31,796] MainThread INFO: [AppMgr]: Create 1 task
+[2020-04-26 16:15:31,797] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f15fface210>}
+[2020-04-26 16:15:31,797] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f15fface210>}
+[2020-04-26 16:15:31,797] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2020-04-26 16:15:31,797] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2020-04-26 16:15:31,797] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2020-04-26 16:15:31,797] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2020-04-26 16:18:48,109] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2020-04-26 16:18:48,109] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2020-04-26 16:18:48,109] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f0aa8650510>}
+[2020-04-26 16:18:48,109] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f0aa8650510>}
+[2020-04-26 16:18:48,110] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2020-04-26 16:18:48,110] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2020-04-26 16:18:48,110] MainThread INFO: [AppMgr]: Create 1 task
+[2020-04-26 16:18:48,110] MainThread INFO: [AppMgr]: Create 1 task
+[2020-04-26 16:18:48,110] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f0aa50d8210>}
+[2020-04-26 16:18:48,110] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f0aa50d8210>}
+[2020-04-26 16:18:48,110] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2020-04-26 16:18:48,110] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2020-04-26 16:18:48,110] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2020-04-26 16:18:48,110] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2020-04-26 16:19:34,280] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2020-04-26 16:19:34,280] MainThread INFO: [AppMgr] APP AnalysisApp is loaded
+[2020-04-26 16:19:34,281] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f848dbf5510>}
+[2020-04-26 16:19:34,281] MainThread DEBUG: [AppMgr] Load apps, the number of app = {0: <AnaApp.AnaApp object at 0x7f848dbf5510>}
+[2020-04-26 16:19:34,281] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2020-04-26 16:19:34,281] MainThread INFO: [AppMgr] Get task {'tid': 0, 'data': {}, 'args': {}, 'boot': ['cd /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev', 'bash /root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev/read.sh', 'pwd'], 'resdir': ['/root/mpi/ProdTest/res/Read/data_1/e+_1.0Mev']}
+[2020-04-26 16:19:34,281] MainThread INFO: [AppMgr]: Create 1 task
+[2020-04-26 16:19:34,281] MainThread INFO: [AppMgr]: Create 1 task
+[2020-04-26 16:19:34,281] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f848a67d210>}
+[2020-04-26 16:19:34,281] MainThread INFO: [AppMgr] App 0, Create 1 tasks:{0: <python.Task.Task object at 0x7f848a67d210>}
+[2020-04-26 16:19:34,282] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2020-04-26 16:19:34,282] MainThread INFO: [Scheduler] Load tasks created by AppMgr
+[2020-04-26 16:19:34,282] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
+[2020-04-26 16:19:34,282] MainThread INFO: [Scheduler] Load 1 tasks, add 1 task to queue
